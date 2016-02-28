@@ -1,0 +1,39 @@
+_repo: Comedies-by-Holberg-Jeppe-of-the-Hill-The-Political-Tinker-Erasmus-Montanus_5749
+contributor:
+  translators:
+  - agent_name: Schenck, Frederic
+    birthdate: 1887
+    deathdate: 1919
+    gutenberg_agent_id: '26293'
+    url: http://www.gutenberg.org/2009/agents/26293
+  - agent_name: Campbell, Oscar James
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '39688'
+    url: http://www.gutenberg.org/2009/agents/39688
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Baron Ludvig
+    - Holberg, Johan Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish drama -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Comedies'
+title: 'Comedies by Holberg : Jeppe of the Hill, The Political Tinker, Erasmus Montanus'
+url: http://www.gutenberg.org/ebooks/5749
