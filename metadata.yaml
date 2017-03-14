@@ -1,5 +1,5 @@
 _repo: Comedies-by-Holberg-Jeppe-of-the-Hill-The-Political-Tinker-Erasmus-Montanus_5749
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Schenck, Frederic
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '39688'
     url: http://www.gutenberg.org/2009/agents/39688
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holberg, Ludvig
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1863
     wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5749#Comedies-by-Holberg-Jeppe-of-the-Hill-The-Political-Tinker-Erasmus-Montanus
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
