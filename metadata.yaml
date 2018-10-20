@@ -1,5 +1,5 @@
 _repo: Comedies-by-Holberg-Jeppe-of-the-Hill-The-Political-Tinker-Erasmus-Montanus_5749
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translators:
   - agent_name: Schenck, Frederic
@@ -41,5 +41,6 @@ subjects:
 - !lcsh 'Danish drama -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Comedies'
+- GITenberg
 title: 'Comedies by Holberg : Jeppe of the Hill, The Political Tinker, Erasmus Montanus'
 url: http://www.gutenberg.org/ebooks/5749
